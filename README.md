@@ -148,7 +148,7 @@ Glutton:
 下载地址: https://github.com/NemoAlex/glutton
 ```
 
-#### 在同局域网下，浏览器输入http://Pi-ip/Aria即可进入Aria2管理届面。
+#### 在同局域网下，浏览器输入** http://Pi-ip/Aria **即可进入Aria2管理届面。
 
 ## 五、设置开机启动
 
